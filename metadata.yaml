@@ -1,5 +1,8 @@
 _repo: Turner-s-Golden-Visions_56923
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56923-h/images/cover.jpg
 creator:
   author:
     agent_name: Hind, C. Lewis (Charles Lewis)
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '7231'
     url: http://www.gutenberg.org/2009/agents/7231
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56923#Turner-s-Golden-Visions
 gutenberg_issued: '2018-04-05'
 gutenberg_type: Text
 identifiers:
